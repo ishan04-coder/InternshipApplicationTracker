@@ -1,0 +1,4 @@
+# Sample applications
+1|TCS|Java Developer Intern|Remote|2026-09-25|APPLIED|Java and SQL preparation
+2|Wipro|Backend Intern|Bengaluru|2026-09-22|SHORTLISTED|Assessment completed
+3|Infosys|Software Engineering Intern|Pune|2026-10-05|INTERVIEW|Interview preparation
